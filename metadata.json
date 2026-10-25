@@ -1,0 +1,6 @@
+{
+  "name": "Czech Quiz Form & Sheets Creator",
+  "description": "Diseñador y exportador de cuestionarios de checo a Google Forms con hoja de respuestas en Google Sheets y opciones distractoras gramaticales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
